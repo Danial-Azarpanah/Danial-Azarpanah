@@ -11,8 +11,9 @@
 - 🏦 I'm a Backend-developer and Computer Science student in Iran. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨🏻‍💻 I regulary push new projects and commit changes on Github
+- 🌐 I'm developer of <a href="https://www.tiphub.net>TipHub</a>
 - 💻 I use daily **.js**, **.py**,  **.html**
-- 📖 I am currently reading **Deep Work** by Cal Newport
+- 📖 I am currently reading **Seeing** by Jose Saramago
 - 💬 Talk to me about Django, python (These aren't movie or animals), silicon valley, tech companies, and startups
 - 👯 We can connect to collaborate on some projects
 - ⚡ Fun fact: I know languages other than English (فارسی، Türkçe)
