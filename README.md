@@ -13,7 +13,7 @@
 - 👨🏻‍💻 I regulary push new projects and commit changes on Github
 - 🌐 I'm developer of www.tiphub.net
 - 💻 I use daily **.js**, **.py**,  **.html**
-- 📖 I am currently reading **The Suicide Shop** by Jean Teulé
+- 📖 I am currently reading **The Death of Ivan Ilyich** by Leo Tolstoy
 - 💬 Talk to me about Django, python (These aren't movie or animals), silicon valley, tech companies, and startups
 - 👯 We can connect to collaborate on some projects
 - ⚡ Fun fact: I know languages other than English (فارسی، Türkçe)
