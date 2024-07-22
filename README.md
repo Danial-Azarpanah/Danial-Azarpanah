@@ -11,9 +11,8 @@
 - 🏦 I'm a Backend-developer and Computer Science student in Iran. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨🏻‍💻 I regulary push new projects and commit changes on Github
-- 🌐 I'm developer of www.tiphub.net
 - 💻 I use daily **.js**, **.py**,  **.html**
-- 📖 I am currently reading **Thirteen Reasons Why** by Jay Asher
+- 📖 I am currently reading **Nietzsche's Letters** by Friedrich Nietzsche
 - 💬 Talk to me about Django, python (These aren't movie or animals), silicon valley, tech companies, and startups
 - 👯 We can connect to collaborate on some projects
 - ⚡ Fun fact: I know languages other than English (فارسی، Türkçe)
