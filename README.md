@@ -12,7 +12,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨🏻‍💻 I regulary push new projects and commit changes on Github
 - 💻 I use daily **.js**, **.py**,  **.html**
-- 📖 I am currently reading **Nietzsche's Letters** by Friedrich Nietzsche
+- 📖 I am currently reading **Deep Work** by Cal Newport
 - 💬 Talk to me about Django, python (These aren't movie or animals), silicon valley, tech companies, and startups
 - 👯 We can connect to collaborate on some projects
 - ⚡ Fun fact: I know languages other than English (فارسی، Türkçe)
